@@ -1,0 +1,6 @@
+{
+  "name": "KABADI LINK",
+  "description": "Kabadi se Recycler tak — Seedha. Sahi. Traceable. Vernacular, offline-tolerant digital bridge connecting informal e-waste collectors with authorized recyclers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
